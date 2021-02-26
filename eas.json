@@ -4,11 +4,6 @@
       "release": {
         "workflow": "managed"
       }
-    },
-    "ios": {
-      "release": {
-        "workflow": "managed"
-      }
     }
   }
 }
